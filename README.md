@@ -4,6 +4,7 @@ ofxMackerel
 The simple wrapper for mackerel.io  
 https://mackerel.io/
 
+Tested on openFrameworks v0.9.3 OSX
 
 USAGE
 --------
